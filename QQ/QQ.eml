@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.7">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="mysql-connector-java-8.0.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$MODULE_DIR$/jdbc/mysql-connector-java-8.0.17.jar!/"/>
+	</lib>
+	<levels>
+		<level name="jdbc" value="project"/>
+	</levels>
+</component>
